@@ -42,25 +42,3 @@ The sample program - NetAppSample.java shows a sample use of the API.
 
 Please refer the javadoc/index.html file for the complete list of functions supported by the API.
 
-
-
-
-How to obtain support?
-----------------------
-
-Please feel free to write to me for any assistance.
-I will be happy to help.
-
-
-Yours sincerely,
-
-Gopinath
-
-deargopinath@yahoo.com
-
-
-
-
-
-
-
