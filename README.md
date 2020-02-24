@@ -42,3 +42,5 @@ The sample program - NetAppSample.java shows a sample use of the API.
 
 Please refer the javadoc/index.html file for the complete list of functions supported by the API.
 
+
+Java evrsion required: 8 or above
