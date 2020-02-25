@@ -1,13 +1,11 @@
-package netappfiler;
-
 /**
  *
  * @author Srinivas Gopinath Parimi
  */
+package netappfiler;
 import java.io.*;
 import java.util.*;
 import java.util.regex.*;
-
 import ch.ethz.ssh2.Connection;
 import ch.ethz.ssh2.Session;
 import ch.ethz.ssh2.StreamGobbler;
